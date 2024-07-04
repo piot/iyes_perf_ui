@@ -22,7 +22,7 @@ entries = []
 chrono = ["dep:chrono"]
 
 [dependencies.bevy]
-version = "0.13"
+version = "0.14"
 default-features = false
 features = [
     "bevy_ui",
@@ -37,5 +37,5 @@ features = [
 ]
 
 [dev-dependencies.bevy]
-version = "0.13"
+version = "0.14"
 default-features = true
